@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Gnani 👋
 
-<!--
-**gnani291/gnani291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Open Source Contributor focused on:
 
-Here are some ideas to get you started:
+- Agentic RAG Systems
+- Kubeflow & KServe
+- LLM Serving & Optimization
+- Kubernetes & Infrastructure (Terraform, Docker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+- Expanding kubeflow/docs-agent into an Agentic RAG reference architecture.
+
+Let's build production-grade AI systems 
