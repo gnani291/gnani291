@@ -1,4 +1,4 @@
-## Hi, I'm Gnani 👋
+## Hi, I'm Gnani 
 
 I'm an Open Source Contributor focused on:
 
