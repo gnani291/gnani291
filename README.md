@@ -1,6 +1,6 @@
 ## Hi, I'm Gnani 
 
-I'm an Open Source Contributor focused on:
+I'm an Open Source Contributor focused on:-
 
 - Agentic RAG Systems
 - Kubeflow & KServe
