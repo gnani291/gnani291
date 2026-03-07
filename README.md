@@ -22,7 +22,7 @@
 • Kubeflow Ecosystem  
 • AI Model Serving  
 
-⚡ Currently expanding **kubeflow/docs-agent** into an **Agentic RAG reference architecture**
+⚡ Currently expanding **kubeflow/docs-agent** into an **Agentic RAG reference architecture** As a part of GSOC
 
 ---
 
@@ -110,8 +110,7 @@ Docker • Kubernetes • Git • GitHub
 |------|-------------|
 | **EduTutor AI** | AI-powered personalized learning system using LLMs |
 | **AI Medical Vending Machine** | Smart Raspberry Pi based medicine dispensing system |
-| **Agentic RAG System** | Next-gen RAG architecture for enterprise AI |
-| **AI Quiz Generator** | WatsonX-powered automated quiz generation |
+| **LIKKI AI** | A Multimodal AI Assistant |
 
 ---
 
@@ -119,7 +118,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -139,7 +138,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 
 </p>
 
@@ -149,7 +148,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
 
 </p>
 
