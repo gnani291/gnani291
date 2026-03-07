@@ -1,126 +1,135 @@
-## Hi, I'm Gnani 
+<p align="center">Hi 👋 I'm Gnani Tadiparthi</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Open+Source+Contributor;Generative+AI+%7C+LLM+Systems;Agentic+RAG+Developer;Kubeflow+%7C+KServe+Contributor;Building+Production+AI+Systems" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" /> </p>
+🚀 About Me
 
-I'm an Open Source Contributor focused on:-
+AI Engineer and Open Source Contributor focused on building scalable AI systems and ML infrastructure.
 
-- Agentic RAG Systems
-- Kubeflow & KServe
-- LLM Serving & Optimization
-- Kubernetes & Infrastructure (Terraform, Docker)
+🔬 My work focuses on:
 
-Currently exploring:
-- Expanding kubeflow/docs-agent into an Agentic RAG reference architecture.
+Agentic RAG Systems
 
-Let's build production-grade AI systems 
+LLM Infrastructure
 
-🔥 Core Expertise
+Kubeflow Ecosystem
 
+AI Model Serving
 
-🧠 Artificial Intelligence
-Machine Learning • Deep Learning • Generative AI • Large Language Models (LLMs) • AI System Design
+⚡ Currently working on expanding kubeflow/docs-agent into an Agentic RAG reference architecture.
 
-
-📊 Machine Learning
-Supervised Learning • Unsupervised Learning • Classification • Regression • Feature Engineering • Model Evaluation • Data Preprocessing
-
-🔎 Natural Language Processing (NLP)
-Text Processing • Tokenization • Named Entity Recognition (NER) • Transformer Models • Text Embeddings
-
-⚙️ Backend & AI Systems
-REST APIs • Model Integration • AI Application Development • AI Model Deployment
-
-🔧 Tech Stack
+🔥 Tech Stack
 💻 Programming
+<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
+🤖 AI / ML
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p>
 
-Python
+Machine Learning
+Deep Learning
+Generative AI
+Large Language Models (LLMs)
 
-📊 Data Science & Machine Learning
+🧠 Generative AI Stack
 
+LangChain
 
-• Scikit-learn
-• XGBoost
-• Pandas
-• NumPy
-• Feature Engineering
-• Data Cleaning & Transformation
-• Model Evaluation Metrics
+Hugging Face Transformers
 
-🤖 Deep Learning
+Retrieval Augmented Generation (RAG)
 
-• PyTorch
-• TensorFlow
-• Neural Networks (ANN, CNN, RNN, LSTM, BiLSTM)
-• Transfer Learning
-• Model Optimization
+AI Agents
 
-🧠 Generative AI
+IBM WatsonX
 
-• Large Language Models (LLMs)
-• Prompt Engineering
-• Retrieval Augmented Generation (RAG)
-• AI Agents
+Granite Models
 
-Technologies
+📊 Data Science
 
-• Hugging Face Transformers
-• LangChain
-• IBM WatsonX
-• Granite Models
-• Vector Databases
+Pandas
 
-🔎 Natural Language Processing
+NumPy
 
-• NLTK
-• spaCy
-• Hugging Face Transformers
-• Text Embeddings
-• Sentiment Analysis
-• Named Entity Recognition (NER)
+Scikit-learn
 
-🎧 Audio AI & Speech Processing
+XGBoost
 
-• PyTorch Audio
-• Librosa
-• Speech Feature Extraction
-• Audio Classification
+🔎 NLP
 
-👁️ Computer Vision
+spaCy
 
-• TorchVision
-• Image Classification
-• CNN Architectures
-• Transfer Learning for Vision Models
+NLTK
 
-🎥 Video AI
+Transformers
 
-• TorchVideo
-• Video Processing
-• Action Recognition (Learning)
+Text Embeddings
 
-⚙️ AI Application Development
-
-• FastAPI
-• Streamlit
-• REST APIs
-• Model Serving
+Named Entity Recognition
 
 🗄 Vector Databases
 
-• Pinecone
-• Embedding Search
-• Semantic Retrieval
+Pinecone
 
-☁️ Tools & Platforms
+Semantic Search
 
-• Git
-• GitHub
-• Docker (Learning)
-• Jupyter Notebook
-• VS Code
+Embedding Retrieval
 
+⚙️ Backend AI Systems
+<p> <img src="https://skillicons.dev/icons?i=fastapi" /> </p>
+
+REST APIs
+
+AI Model Deployment
+
+AI Application Development
+
+☁️ DevOps / Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" /> </p>
+
+Docker (Learning)
+
+Kubernetes (Learning)
+
+Git
+
+GitHub
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p>
+📊 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"> </p>
 🌱 Currently Learning
 
-• Advanced Generative AI Systems
-• LLM Fine-Tuning
-• AI System Design
-• AI SaaS Architecture
-• Scalable AI Deployment
+Advanced Generative AI Systems
+
+LLM Fine-Tuning
+
+AI System Design
+
+AI SaaS Architecture
+
+Scalable AI Deployment
+
+🤝 Open Source Contributions
+
+Kubeflow ecosystem
+
+AI infrastructure projects
+
+LLM tooling
+
+Agentic AI systems
+
+💡 Interests
+
+AI Infrastructure
+
+Large Scale ML Systems
+
+Agentic AI
+
+Generative AI Platforms
+
+⭐ Mission
+
+Building production-grade AI systems and scalable LLM architectures.
