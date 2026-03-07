@@ -1,135 +1,199 @@
-<p align="center">Hi 👋 I'm Gnani Tadiparthi</p>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Open+Source+Contributor;Generative+AI+%7C+LLM+Systems;Agentic+RAG+Developer;Kubeflow+%7C+KServe+Contributor;Building+Production+AI+Systems" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" /> </p>
-🚀 About Me
+<h1 align="center">Hi 👋 I'm Gnani Tadiparthi</h1>
+<h3 align="center">AI Engineer • Open Source Contributor • Generative AI Systems</h3>
 
-AI Engineer and Open Source Contributor focused on building scalable AI systems and ML infrastructure.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Generative+AI;Open+Source+Contributor;Agentic+RAG+Systems;Kubeflow+Contributor;Building+Production+AI+Systems"/>
+</p>
 
-🔬 My work focuses on:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=gnani291&label=Profile%20Views&color=blue&style=flat"/>
+</p>
 
-Agentic RAG Systems
+---
 
-LLM Infrastructure
+# 🧠 About Me
 
-Kubeflow Ecosystem
+🚀 AI Engineer focused on **Generative AI, LLM systems, and scalable ML infrastructure**
 
-AI Model Serving
+🔬 Working on:
 
-⚡ Currently working on expanding kubeflow/docs-agent into an Agentic RAG reference architecture.
+• Agentic RAG Systems  
+• LLM Infrastructure  
+• Kubeflow Ecosystem  
+• AI Model Serving  
 
-🔥 Tech Stack
-💻 Programming
-<p> <img src="https://skillicons.dev/icons?i=python" /> </p>
-🤖 AI / ML
-<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> </p>
+⚡ Currently expanding **kubeflow/docs-agent** into an **Agentic RAG reference architecture**
 
-Machine Learning
-Deep Learning
-Generative AI
-Large Language Models (LLMs)
+---
 
-🧠 Generative AI Stack
+# 🔥 Tech Stack
 
-LangChain
+### 💻 Programming
 
-Hugging Face Transformers
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-Retrieval Augmented Generation (RAG)
+---
 
-AI Agents
+### 🤖 AI / ML
 
-IBM WatsonX
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+</p>
 
-Granite Models
+Machine Learning • Deep Learning • Generative AI • LLMs
 
-📊 Data Science
+---
 
-Pandas
+### 🧠 Generative AI
 
-NumPy
+• LangChain  
+• Hugging Face Transformers  
+• Retrieval Augmented Generation (RAG)  
+• AI Agents  
+• IBM WatsonX  
+• Granite Models  
 
-Scikit-learn
+---
 
-XGBoost
+### 📊 Data Science
 
-🔎 NLP
+• Pandas  
+• NumPy  
+• Scikit-learn  
+• XGBoost  
 
-spaCy
+---
 
-NLTK
+### 🔎 NLP
 
-Transformers
+• spaCy  
+• NLTK  
+• Transformers  
+• Text Embeddings  
+• Named Entity Recognition  
 
-Text Embeddings
+---
 
-Named Entity Recognition
+### 🗄 Vector Databases
 
-🗄 Vector Databases
+• Pinecone  
+• Semantic Search  
+• Embedding Retrieval  
 
-Pinecone
+---
 
-Semantic Search
+### ⚙️ Backend AI Systems
 
-Embedding Retrieval
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+</p>
 
-⚙️ Backend AI Systems
-<p> <img src="https://skillicons.dev/icons?i=fastapi" /> </p>
+REST APIs • Model Deployment • AI Applications
 
-REST APIs
+---
 
-AI Model Deployment
+### ☁️ DevOps
 
-AI Application Development
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode"/>
+</p>
 
-☁️ DevOps / Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode" /> </p>
+Docker • Kubernetes • Git • GitHub
 
-Docker (Learning)
+---
 
-Kubernetes (Learning)
+# 🚀 Featured AI Projects
 
-Git
+| Project | Description |
+|------|-------------|
+| **EduTutor AI** | AI-powered personalized learning system using LLMs |
+| **AI Medical Vending Machine** | Smart Raspberry Pi based medicine dispensing system |
+| **Agentic RAG System** | Next-gen RAG architecture for enterprise AI |
+| **AI Quiz Generator** | WatsonX-powered automated quiz generation |
 
-GitHub
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /> </p>
-📊 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"> </p>
-🌱 Currently Learning
+# 📈 GitHub Stats
 
-Advanced Generative AI Systems
+<p align="center">
 
-LLM Fine-Tuning
+<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
-AI System Design
+</p>
 
-AI SaaS Architecture
+---
 
-Scalable AI Deployment
+# 🔥 GitHub Streak
 
-🤝 Open Source Contributions
+<p align="center">
 
-Kubeflow ecosystem
+<img src="https://streak-stats.demolab.com?user=gnani291&theme=tokyonight&hide_border=true"/>
 
-AI infrastructure projects
+</p>
 
-LLM tooling
+---
 
-Agentic AI systems
+# 📊 Top Languages
 
-💡 Interests
+<p align="center">
 
-AI Infrastructure
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-Large Scale ML Systems
+</p>
 
-Agentic AI
+---
 
-Generative AI Platforms
+# 🏆 GitHub Achievements
 
-⭐ Mission
+<p align="center">
 
-Building production-grade AI systems and scalable LLM architectures.
+<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnani291&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/gnani291/gnani291/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+• Advanced Generative AI Systems  
+• LLM Fine-Tuning  
+• AI System Design  
+• AI SaaS Architecture  
+• Scalable AI Deployment  
+
+---
+
+# 🤝 Open Source Contributions
+
+• Kubeflow ecosystem  
+• AI infrastructure projects  
+• LLM tooling  
+• Agentic AI systems  
+
+---
+
+# ⭐ Mission
+
+Building **production-grade AI systems and scalable LLM architectures**
