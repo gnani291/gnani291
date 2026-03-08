@@ -117,9 +117,7 @@ Docker • Kubernetes • Git • GitHub
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -127,9 +125,7 @@ Docker • Kubernetes • Git • GitHub
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=gnani291&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -137,9 +133,7 @@ Docker • Kubernetes • Git • GitHub
 # 📊 Top Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 ---
@@ -147,9 +141,7 @@ Docker • Kubernetes • Git • GitHub
 # 🏆 GitHub Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=algolia&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -157,9 +149,7 @@ Docker • Kubernetes • Git • GitHub
 # 📊 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnani291&theme=tokyo-night"/>
-
+<img src="https://ghchart.rshah.org/gnani291" alt="Gnani's GitHub Contribution Chart"/>
 </p>
 
 ---
@@ -167,9 +157,7 @@ Docker • Kubernetes • Git • GitHub
 # 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/gnani291/gnani291/output/github-contribution-grid-snake.svg"/>
-
 </p>
 
 ---
