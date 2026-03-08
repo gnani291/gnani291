@@ -118,7 +118,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +138,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +148,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
