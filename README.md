@@ -118,9 +118,7 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/gnani291?label=Followers&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/gnani291?affiliations=OWNER&style=for-the-badge"/>
-<img src="https://img.shields.io/github/commit-activity/m/gnani291/gnani291?style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
