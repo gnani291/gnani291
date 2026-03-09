@@ -126,8 +126,12 @@ Docker • Kubernetes • Git • GitHub
 
 # 🔥 GitHub Streak
 
+# 📈 GitHub Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=gnani291&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gnani291&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
 </p>
 
 ---
