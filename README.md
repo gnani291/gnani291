@@ -117,7 +117,11 @@ Docker • Kubernetes • Git • GitHub
 # 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gnani291&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img src="https://img.shields.io/github/followers/gnani291?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/gnani291?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/commit-activity/m/gnani291/gnani291?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -133,7 +137,12 @@ Docker • Kubernetes • Git • GitHub
 # 📊 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnani291&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
+
 </p>
 
 ---
@@ -141,7 +150,12 @@ Docker • Kubernetes • Git • GitHub
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gnani291&theme=algolia&no-frame=true&row=1&column=6"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/AI-Engineer-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative-AI-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubeflow-Contributor-326CE5?style=for-the-badge&logo=kubernetes"/>
+
 </p>
 
 ---
