@@ -118,12 +118,9 @@ Docker • Kubernetes • Git • GitHub
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/gnani291?label=Followers&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/gnani291?affiliations=OWNER&style=for-the-badge"/>
-<img src="https://img.shields.io/github/commit-activity/m/gnani291/gnani291?style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnani291&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
 ---
 
 # 🔥 GitHub Streak
