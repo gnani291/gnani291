@@ -9,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=gnani291&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 ---
-
 # 🧠 About Me
 
 🚀 AI Engineer focused on **Generative AI, LLM systems, and scalable ML infrastructure**
