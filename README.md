@@ -77,7 +77,6 @@ Machine Learning • Deep Learning • Generative AI • LLMs
 • Embedding Retrieval  
 
 ---
-
 ### ⚙️ Backend AI Systems
 
 <p>
