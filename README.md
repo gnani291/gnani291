@@ -23,7 +23,6 @@
 ⚡ Currently expanding **kubeflow/docs-agent** into an **Agentic RAG reference architecture** As a part of GSOC
 ---
 # 🔥 Tech Stack
-
 ### 💻 Programming
 
 <p>
