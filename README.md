@@ -66,7 +66,6 @@ Machine Learning • Deep Learning • Generative AI • LLMs
 • Named Entity Recognition  
 
 ---
-
 ### 🗄 Vector Databases
 
 • Pinecone  
