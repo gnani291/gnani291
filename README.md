@@ -49,7 +49,6 @@ Machine Learning • Deep Learning • Generative AI • LLMs
 • Granite Models  
 
 ---
-
 ### 📊 Data Science
 
 • Pandas  
