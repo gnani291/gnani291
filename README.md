@@ -39,7 +39,6 @@
 Machine Learning • Deep Learning • Generative AI • LLMs
 
 ---
-
 ### 🧠 Generative AI
 
 • LangChain  
