@@ -170,7 +170,6 @@ Docker • Kubernetes • Git • GitHub
 • Scalable AI Deployment  
 
 ---
-
 # 🤝 Open Source Contributions
 
 • Kubeflow ecosystem  
