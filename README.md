@@ -152,7 +152,6 @@ Docker • Kubernetes • Git • GitHub
 </p>
 
 ---
-
 # 🐍 Contribution Snake
 
 <p align="center">
