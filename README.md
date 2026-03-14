@@ -177,7 +177,6 @@ Docker • Kubernetes • Git • GitHub
 • AI infrastructure projects  
 • LLM tooling  
 • Agentic AI systems  
-
 ---
 
 # ⭐ Mission
