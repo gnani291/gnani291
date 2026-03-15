@@ -142,7 +142,6 @@ Docker • Kubernetes • Git • GitHub
 <img src="https://img.shields.io/badge/Kubeflow-Contributor-326CE5?style=for-the-badge&logo=kubernetes"/>
 
 </p>
-
 ---
 
 # 📊 Contribution Activity
