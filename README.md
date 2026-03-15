@@ -130,7 +130,6 @@ Docker • Kubernetes • Git • GitHub
 <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
 
 </p>
-
 ---
 # 🏆 GitHub Achievements
 
