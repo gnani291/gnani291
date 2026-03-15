@@ -142,7 +142,6 @@ Docker • Kubernetes • Git • GitHub
 
 </p>
 ---
-
 # 📊 Contribution Activity
 
 <p align="center">
