@@ -28,7 +28,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
-
 ---
 ### 🤖 AI / ML
 
