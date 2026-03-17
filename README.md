@@ -146,7 +146,6 @@ Docker • Kubernetes • Git • GitHub
 <p align="center">
 <img src="https://ghchart.rshah.org/gnani291" alt="Gnani's GitHub Contribution Chart"/>
 </p>
-
 ---
 # 🐍 Contribution Snake
 
