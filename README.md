@@ -153,7 +153,6 @@ Docker • Kubernetes • Git • GitHub
 <p align="center">
 <img src="https://raw.githubusercontent.com/gnani291/gnani291/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 # 🌱 Currently Learning
 
