@@ -117,7 +117,6 @@ Docker • Kubernetes • Git • GitHub
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=gnani291&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 # 📊 Top Languages
 
