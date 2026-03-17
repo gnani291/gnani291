@@ -100,7 +100,6 @@ Docker • Kubernetes • Git • GitHub
 | **EduTutor AI** | AI-powered personalized learning system using LLMs |
 | **AI Medical Vending Machine** | Smart Raspberry Pi based medicine dispensing system |
 | **LIKKI AI** | A Multimodal AI Assistant |
-
 ---
 
 # 📈 GitHub Stats
