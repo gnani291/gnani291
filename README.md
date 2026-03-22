@@ -165,7 +165,6 @@ Docker • Kubernetes • Git • GitHub
 • LLM tooling  
 • Agentic AI systems  
 ---
-
 # ⭐ Mission
 
 Building **production-grade AI systems and scalable LLM architectures**
