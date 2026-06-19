@@ -28,8 +28,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
----
-### 🤖 AI / ML
+
+ 🤖 AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
